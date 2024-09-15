@@ -180,7 +180,7 @@ source "drivers/reset/Kconfig"
 
 source "drivers/coresight/Kconfig"
 
-source "drivers/android/Kconfig"
+source "drivers/staging/android/Kconfig"
 
 source "drivers/sensor/Kconfig"
 
